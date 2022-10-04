@@ -1,0 +1,18 @@
+<svg width="103" height="70" viewBox="0 0 103 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="68" cy="35" r="34" fill="white" stroke="#040F56" stroke-width="2"/>
+<circle cx="68" cy="35" r="6" fill="#4A7EFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M72 2.23997C55.661 4.21419 43 18.1285 43 35C43 51.8715 55.661 65.7858 72 67.76C70.6888 67.9185 69.3539 68 68 68C49.7746 68 35 53.2254 35 35C35 16.7746 49.7746 2 68 2C69.3539 2 70.6888 2.08154 72 2.23997Z" fill="#DCE1E5"/>
+<line x1="24" y1="36" x2="-6.02147e-08" y2="36" stroke="#040F56" stroke-width="2"/>
+<line x1="38" y1="3" x2="16" y2="3" stroke="#040F56" stroke-width="2"/>
+<line y1="-1" x2="23" y2="-1" transform="matrix(1 -1.40642e-07 -5.43419e-08 -1 6 51)" stroke="#040F56" stroke-width="2"/>
+<line x1="28" y1="20" x2="5" y2="20" stroke="#040F56" stroke-width="2"/>
+<line y1="-1" x2="22" y2="-1" transform="matrix(1 -1.4399e-07 -5.30781e-08 -1 16 67)" stroke="#040F56" stroke-width="2"/>
+<line x1="68" y1="2" x2="68" y2="8" stroke="#040F56" stroke-width="2" stroke-linecap="round"/>
+<line x1="68" y1="62" x2="68" y2="68" stroke="#040F56" stroke-width="2" stroke-linecap="round"/>
+<line x1="101" y1="35" x2="95" y2="35" stroke="#040F56" stroke-width="2" stroke-linecap="round"/>
+<line x1="41" y1="35" x2="35" y2="35" stroke="#040F56" stroke-width="2" stroke-linecap="round"/>
+<line x1="90.6278" y1="58.0416" x2="86.3851" y2="53.799" stroke="#040F56" stroke-width="2" stroke-linecap="round"/>
+<line x1="48.201" y1="15.6152" x2="43.9584" y2="11.3726" stroke="#040F56" stroke-width="2" stroke-linecap="round"/>
+<line x1="43.958" y1="56.6279" x2="48.2006" y2="52.3853" stroke="#040F56" stroke-width="2" stroke-linecap="round"/>
+<line x1="70.9493" y1="31.8289" x2="86.172" y2="16.0507" stroke="#4A7EFF" stroke-width="4" stroke-linecap="round"/>
+</svg>
